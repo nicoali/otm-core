@@ -34,9 +34,9 @@ def _make_scientific_name_key(g, s, c, o):
 # using these dictionary objects as "templates."
 
 SPECIES = [
-{"otm_code": "AB"    , "common_name": "Fir"                         , "genus": "Abies"         , "species": ""              , "cultivar": ""              , "other_part_of_name": ""},
-{"otm_code": "ABAL"  , "common_name": "Silver fir"                  , "genus": "Abies"         , "species": "alba"          , "cultivar": ""              , "other_part_of_name": ""},
-{"otm_code": "ABBA"  , "common_name": "Balsam fir"                  , "genus": "Abies"         , "species": "balsamea"      , "cultivar": ""              , "other_part_of_name": ""},
+{"otm_code": "AB"    , "common_name": "Abete"                       , "genus": "Abies"         , "species": ""              , "cultivar": ""              , "other_part_of_name": ""},
+{"otm_code": "ABAL"  , "common_name": "Abete comune"                , "genus": "Abies"         , "species": "alba"          , "cultivar": ""              , "other_part_of_name": ""},
+{"otm_code": "ABBA"  , "common_name": "Abete balsamico"             , "genus": "Abies"         , "species": "balsamea"      , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ABCO"  , "common_name": "White fir"                   , "genus": "Abies"         , "species": "concolor"      , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ABFR"  , "common_name": "Fraser fir"                  , "genus": "Abies"         , "species": "fraseri"       , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ABGR"  , "common_name": "Grand fir"                   , "genus": "Abies"         , "species": "grandis"       , "cultivar": ""              , "other_part_of_name": ""},
