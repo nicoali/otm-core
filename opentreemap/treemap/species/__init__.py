@@ -796,7 +796,7 @@ SPECIES = [
 {"otm_code": "PLAC1" , "common_name": "Frangipani"                  , "genus": "Plumeria"      , "species": "acuminata"     , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "PLAC_B", "common_name": "London planetree 'Bloodgood'", "genus": "Platanus"      , "species": "acerifolia"    , "cultivar": "Bloodgood"     , "other_part_of_name": ""},
 {"otm_code": "PLAC_C", "common_name": "London planetree 'Columbia'" , "genus": "Platanus"      , "species": "acerifolia"    , "cultivar": "Columbia"      , "other_part_of_name": ""},
-{"otm_code": "PLOC"  , "common_name": "American sycamore"           , "genus": "Platanus"      , "species": "occidentalis"  , "cultivar": ""              , "other_part_of_name": ""},
+{"otm_code": "PLOC"  , "common_name": "Platano occidentale"         , "genus": "Platanus"      , "species": "occidentalis"  , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "PLOR"  , "common_name": "Oriental planetree"          , "genus": "Platanus"      , "species": "orientalis"    , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "PLPI4" , "common_name": "Chachimbo"                   , "genus": "Platymiscium"  , "species": "pinnatum"      , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "PLRA"  , "common_name": "California sycamore"         , "genus": "Platanus"      , "species": "racemosa"      , "cultivar": ""              , "other_part_of_name": ""},
