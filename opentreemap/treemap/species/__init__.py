@@ -46,7 +46,7 @@ SPECIES = [
 {"otm_code": "ABMA"  , "common_name": "Abete rosso della California", "genus": "Abies"         , "species": "magnifica"     , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ABPI"  , "common_name": "Abete di Spagna"             , "genus": "Abies"         , "species": "pinsapo"       , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ABPR"  , "common_name": "Abete nobile"                , "genus": "Abies"         , "species": "procera"       , "cultivar": ""              , "other_part_of_name": ""},
-{"otm_code": "AC"    , "common_name": "Maple"                       , "genus": "Acer"          , "species": ""              , "cultivar": ""              , "other_part_of_name": ""},
+{"otm_code": "AC"    , "common_name": "Acero"                       , "genus": "Acer"          , "species": ""              , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ACAC2" , "common_name": "Grugru palm"                 , "genus": "Acrocomia"     , "species": "aculeata"      , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ACAN"  , "common_name": "Mulga"                       , "genus": "Acacia"        , "species": "aneura"        , "cultivar": ""              , "other_part_of_name": ""},
 {"otm_code": "ACBA2" , "common_name": "Bailey acacia"               , "genus": "Acacia"        , "species": "baileyana"     , "cultivar": ""              , "other_part_of_name": ""},
